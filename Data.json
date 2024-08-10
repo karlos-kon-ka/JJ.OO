@@ -1,0 +1,152 @@
+[
+  {
+    "año": 2016,
+    "img": "/imgs/data/ryan_lo.jpg",
+    "descripcion": "Ryan Lochte, nadador estadounidense, mintió sobre haber sido asaltado en Río de Janeiro, lo que generó un escándalo internacional.",
+    "protagonistas": "Ryan Lochte"
+  },
+  {
+    "año": 1994,
+    "img": "/imgs/data/nancy.webp",
+    "descripcion": "El ataque a la patinadora Nancy Kerrigan, orquestado por el equipo de su rival Tonya Harding, fue una de las mayores polémicas en la historia del deporte.",
+    "protagonistas": "Nancy Kerrigan, Tonya Harding"
+  },
+  {
+    "año": 1988,
+    "img": "/imgs/data/ben_j.jfif",
+    "descripcion": "El velocista canadiense Ben Johnson fue despojado de su medalla de oro en los Juegos Olímpicos de Seúl tras dar positivo por esteroides.",
+    "protagonistas": "Ben Johnson"
+  },
+  {
+    "año": 2000,
+    "img": "/imgs/data/marion.webp",
+    "descripcion": "Marion Jones, estrella del atletismo estadounidense, fue despojada de sus medallas olímpicas tras confesar el uso de sustancias prohibidas.",
+    "protagonistas": "Marion Jones"
+  },
+  {
+    "año": 1992,
+    "img": "/imgs/data/dream.webp",
+    "descripcion": "El 'Dream Team' de baloncesto de EE.UU. fue criticado por su arrogancia y dominio aplastante en los Juegos Olímpicos de Barcelona.",
+    "protagonistas": "Michael Jordan, Magic Johnson, Larry Bird"
+  },
+  {
+    "año": 2012,
+    "img": "/imgs/data/Ye.avif",
+    "descripcion": "La nadadora china Ye Shiwen fue acusada de dopaje tras romper récords mundiales con actuaciones impresionantes en Londres 2012, aunque nunca se probó.",
+    "protagonistas": "Ye Shiwen"
+  },
+  {
+    "año": 1968,
+    "img": "/imgs/data/puños.jfif",
+    "descripcion": "Los atletas estadounidenses Tommie Smith y John Carlos levantaron sus puños en el podio en un saludo de poder negro, causando controversia mundial.",
+    "protagonistas": "Tommie Smith, John Carlos"
+  },
+  {
+    "año": 2008,
+    "img": "/imgs/data/tyson.jfif",
+    "descripcion": "Tyson Gay, rival del velocista Usain Bolt, dio positivo por dopaje, lo que ensombreció la competición de los 100 metros en Pekín 2008.",
+    "protagonistas": "Tyson Gay, Usain Bolt"
+  },
+  {
+    "año": 1976,
+    "img": "/imgs/data/nadia.jfif",
+    "descripcion": "La gimnasta rumana Nadia Comaneci fue objeto de escrutinio debido a su juventud y la dureza de su entrenamiento, dirigido por entrenadores autoritarios.",
+    "protagonistas": "Nadia Comaneci"
+  },
+  {
+    "año": 2016,
+    "img": "/imgs/data/portera.jfif",
+    "descripcion": "La portera de fútbol Hope Solo fue suspendida tras llamar a los jugadores suecos 'cobardes' después de que EE.UU. perdiera en los cuartos de final en Río 2016.",
+    "protagonistas": "Hope Solo"
+  },
+  {
+    "año": 1996,
+   "img": "/imgs/data/dorado.jfif",
+    "descripcion": "El velocista Michael Johnson fue criticado por su uso de unos zapatos dorados en los Juegos Olímpicos de Atlanta, lo que fue considerado arrogante por algunos.",
+    "protagonistas": "Michael Johnson"
+  },
+  {
+    "año": 2016,
+    "img": "/imgs/data/tenista.jfif",
+    "descripcion": "Maria Sharapova, estrella del tenis, fue suspendida durante dos años por dopaje, lo que le impidió participar en los Juegos Olímpicos de Río.",
+    "protagonistas": "Maria Sharapova"
+  },
+  {
+    "año": 2004,
+    "img": "/imgs/data/hh.jfif",
+    "descripcion": "El gimnasta estadounidense Paul Hamm ganó el oro en Atenas 2004, pero su victoria fue cuestionada por un error en la puntuación.",
+    "protagonistas": "Paul Hamm"
+  },
+  {
+    "año": 1980,
+   "img": "/imgs/data/boic.jfif",
+    "descripcion": "Estados Unidos y otros países boicotearon los Juegos Olímpicos de Moscú 1980 en protesta por la invasión soviética de Afganistán.",
+    "protagonistas": "Estados Unidos, Unión Soviética"
+  },
+  {
+    "año": 1972,
+   "img": "/imgs/data/nadad.jfif",
+    "descripcion": "Mark Spitz, nadador estadounidense, ganó siete medallas de oro en Múnich 1972, pero su triunfo fue eclipsado por el ataque terrorista en la Villa Olímpica.",
+    "protagonistas": "Mark Spitz"
+  },
+  {
+    "año": 2012,
+    "img": "/imgs/data/tyson.jfif",
+    "descripcion": "La atleta griega Voula Papachristou fue expulsada de los Juegos de Londres 2012 tras realizar un comentario racista en Twitter.",
+    "protagonistas": "Voula Papachristou"
+  },
+  {
+    "año": 1992,
+    "img": "/imgs/data/vou.jfif",
+    "descripcion": "La patinadora francesa Surya Bonaly fue penalizada por realizar un backflip ilegal en su rutina durante los Juegos de Albertville 1992.",
+    "protagonistas": "Surya Bonaly"
+  },
+  {
+    "año": 1984,
+    "img": "/imgs/data/carr.jfif",
+    "descripcion": "Zola Budd, atleta sudafricana que corría descalza, fue involucrada en una colisión con Mary Decker en la final de 3000m en Los Ángeles 1984.",
+    "protagonistas": "Zola Budd, Mary Decker"
+  },
+  {
+    "año": 2016,
+    "img": "/imgs/data/rusa.jfif",
+    "descripcion": "El escándalo de dopaje estatal ruso salió a la luz, llevando a la exclusión de muchos atletas rusos de los Juegos de Río 2016.",
+    "protagonistas": "Delegación Rusa"
+  },
+  {
+    "año": 2000,
+    "img": "/imgs/data/chaty.jfif",
+    "descripcion": "La atleta australiana Cathy Freeman encendió la llama olímpica en Sídney 2000 en un gesto de reconciliación, pero su participación fue criticada por algunos sectores conservadores.",
+    "protagonistas": "Cathy Freeman"
+  },
+  {
+    "año": 2016,
+   "img": "/imgs/data/douglas.jfif",
+    "descripcion": "La gimnasta estadounidense Gabby Douglas fue criticada en redes sociales por no colocar su mano en el corazón durante el himno nacional en Río 2016.",
+    "protagonistas": "Gabby Douglas"
+  },
+  {
+    "año": 2008,
+   "img": "/imgs/data/play.jfif",
+    "descripcion": "Durante la ceremonia de apertura de los Juegos de Pekín 2008, se descubrió que la niña que cantó en el evento hizo playback, mientras que otra niña cantó detrás de escena.",
+    "protagonistas": "Lin Miaoke, Yang Peiyi"
+  },
+  {
+    "año": 1972,
+    "img": "/imgs/data/terror.jfif",
+    "descripcion": "El ataque terrorista conocido como la masacre de Múnich 1972 dejó 11 atletas israelíes muertos, marcando uno de los momentos más oscuros de la historia olímpica.",
+    "protagonistas": "Atletas israelíes, grupo terrorista palestino"
+  },
+  {
+    "año": 1996,
+   "img": "/imgs/data/ista.jfif",
+    "descripcion": "Una bomba explotó en el Parque del Centenario durante los Juegos Olímpicos de Atlanta 1996, matando a dos personas e hiriendo a 111.",
+    "protagonistas": "Eric Robert Rudolph"
+  },
+  {
+    "año": 2020,
+    "img": "/imgs/data/ilu.jfif",
+    "descripcion": "Los Juegos Olímpicos de Tokio 2020 fueron aplazados un año debido a la pandemia de COVID-19, generando críticas y preocupación en la comunidad internacional.",
+    "protagonistas": "Comité Olímpico Internacional"
+  }
+]

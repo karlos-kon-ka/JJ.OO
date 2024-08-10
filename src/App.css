@@ -1,0 +1,214 @@
+#entrada{
+
+    background: url('./public/imgs/fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.904);
+}
+canvas{
+    width: 100%;
+    height: 50vh;
+}
+
+.titulo{
+    background-color: antiquewhite;
+    border-radius: 8px;
+    color: #2c2c2c;
+}
+.parent {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 8px;
+    margin: 20px;
+    text-align: center;
+    
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.atletas{
+    border-radius: 12px;
+    width: 100%;
+    height: 100%;
+    max-width: 250px;
+}
+
+.busqueda{
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px;
+    border: none;
+    border-style: none;
+}
+    
+
+.parent  div p{
+    transition: 0.5s scale;
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.parent  div p:hover{
+     scale: 1.05;
+     box-shadow: 1px 1px 10px black;
+}
+.div1 {
+    grid-column: span 3 / span 3;
+}
+
+.div2 {
+    grid-column: span 2 / span 2;
+    grid-row: span 3 / span 3;
+    grid-column-start: 4;
+}
+
+.div3 {
+    grid-column: span 2 / span 2;
+    grid-row: span 2 / span 2;
+    grid-column-start: 4;
+    grid-row-start: 4;
+}
+
+.div4 {
+    grid-column: span 3 / span 3;
+    grid-row: span 4 / span 4;
+    grid-column-start: 1;
+    grid-row-start: 2;
+}
+
+#fotodroga{
+    width: 100%;
+    max-width: 350px;
+    height: 100%;
+    max-height: 250px;
+    border-radius: 8px;
+}
+
+.conte-datos{
+
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+.big-container{
+   margin: 15px;
+   background: radial-gradient(lightyellow, rgb(179, 64, 64));
+   border-radius: 10px;
+
+}
+.conte-datos{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 20px; 
+    padding: 20px;
+}
+
+.muestra{
+    text-align: center;
+  
+    border-radius: 12px;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(237, 238, 235);
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px; 
+  }
+
+.ver-mas {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #007bff; 
+    color: white; 
+    font-size: 16px; 
+    cursor: pointer;
+    margin-bottom: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .ver-mas:hover {
+    background-color: #0056b3; /* Color de fondo al pasar el cursor */
+  }
+
+
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .footer-icon {
+    color: #fff;
+    font-size: 24px;
+    transition: color 0.3s;
+  }
+  
+  .footer-icon:hover {
+    color: #0077b5; /* Cambia a color deseado para LinkedIn */
+  }
+  
+  .footer-icon:nth-of-type(2):hover {
+    color: #333; /* Cambia a color deseado para GitHub */
+  }
+  
+
+@media (max-width: 750px) {
+    #entrada {
+        height: 300px;
+        background-size: cover;
+    }
+
+    .parent {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        gap: 5px;
+        margin: 10px;
+    }
+
+    .atletas {
+        max-width: 150px;
+        max-height: 150px;
+    }
+
+    .div1, .div4 {
+        grid-column: span 2 / span 2;
+    }
+
+    .div2, .div3 {
+        grid-column: span 2 / span 2;
+        grid-row: span 2 / span 2;
+    }
+
+    #fotodroga {
+        max-width: 200px;
+        max-height: 150px;
+    }
+    .muestra{
+        text-align: center;
+      
+        border-radius: 12px;
+        padding: 12px;
+        margin: 5px;
+        background-color: rgb(237, 238, 235);
+    }
+
+    .conte-datos {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px;
+    }
+}
