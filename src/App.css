@@ -1,6 +1,6 @@
 #entrada{
 
-    background: url('./public/imgs/fondo.jpg');
+    background: url('/imgs/fondo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -34,6 +34,11 @@ canvas{
     width: 100%;
     height: 100%;
     max-width: 250px;
+    transition: scale 0.4s;
+}
+
+.atletas:hover{
+    scale: 1.06;
 }
 
 .busqueda{
@@ -165,6 +170,24 @@ canvas{
     color: #333; /* Cambia a color deseado para GitHub */
   }
   
+
+
+
+
+
+
+
+body {
+    user-select: none; 
+    -webkit-user-select: none; 
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+  }
+  
+
+ 
+
+
 
 @media (max-width: 750px) {
     #entrada {
