@@ -5,10 +5,10 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/carlos-p-26034328b/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} className="footer-icon" />
         </a>
-        <a href="https://github.com/your-profile" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/karlos-kon-ka" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGithub} className="footer-icon" />
         </a>
       </div>
